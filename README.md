@@ -6,6 +6,7 @@
 
 ![Project Overview](House_Price_Prediction_Analysis_image.jpg)
 
+
 ### **Project Description:**
 
 This project aims to build a predictive model for house prices using a comprehensive dataset that includes various house features and attributes. The key objectives of this analysis are to:
